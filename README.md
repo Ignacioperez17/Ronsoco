@@ -1,0 +1,2 @@
+# Ronsoco
+Implementacion de merchandising
